@@ -1,0 +1,20 @@
+{
+  "name": "slack-to-csv",
+  "version": "1.0.0",
+  "description": "Tools to convert slack export to csv files",
+  "main": "extractUsersFromSlackExport.js",
+  "dependencies": {
+    "fast-csv": "^3.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "npm test",
+    "users": "node ./extractUsersFromSlackExport.js"
+  },
+  "keywords": [
+    "slack",
+    "csv"
+  ],
+  "author": "Dan Blundell",
+  "license": "MIT"
+}
