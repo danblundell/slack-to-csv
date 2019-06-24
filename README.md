@@ -11,4 +11,5 @@ We needed a list of users to import into mailing list software and of course, th
 1. Download the zip file
 1. Drop the contents of the zip file in `slackDataHere` directory
 1. To convert users, run `npm run users`
+    1. To convert channels run `npm run channels`
 1. The resulting .csv file should appear in `slackCSVHere`
