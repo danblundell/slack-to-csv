@@ -4,7 +4,8 @@
   "description": "Tools to convert slack export to csv files",
   "main": "extractUsersFromSlackExport.js",
   "dependencies": {
-    "fast-csv": "^3.0.1"
+    "fast-csv": "^3.0.1",
+    "minimist": "^1.2.0"
   },
   "devDependencies": {},
   "scripts": {
