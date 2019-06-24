@@ -9,7 +9,8 @@
   "devDependencies": {},
   "scripts": {
     "test": "npm test",
-    "users": "node ./extractUsersFromSlackExport.js"
+    "users": "node ./extractUsersFromSlackExport.js",
+    "channels": "node ./extractChannelsFromSlackExport.js"
   },
   "keywords": [
     "slack",
