@@ -1,5 +1,5 @@
 node_modules/*
 
 slackCSVHere/*.csv
-slackDataHere/*.json
+slackDataHere/**/*.json
 
